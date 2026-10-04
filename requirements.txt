@@ -1,3 +1,4 @@
 streamlit>=1.38.0
-crewai[gemini,openai]>=1.15.0
+crewai[google-genai,openai]>=1.15.0
+google-genai
 requests>=2.31.0
